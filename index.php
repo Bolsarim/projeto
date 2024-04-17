@@ -108,22 +108,7 @@
             </button>
             <h3 id="frase"></h3>
         </div>
-        <?php
-        include "conexao.php";
-        $sql = "select * from produtos order by preco asc, id desc";
-        $resultado = mysqli_query($conexao, $sql);
-       
-        while($umaTarefa = mysqli_fetch_assoc($resultado)){
-        ?>
- 
-        <td><?= $umaTarefa['tipo'];?></td>
-        <td><?= $umaTarefa['produto'];?></td>
-        <td><?= $umaTarefa['preco'];?></td>
-        <td><?= $umaTarefa['imagem'];?></td>
-
-     <?php
-        }
-    ?>
+     
     </section>
     <br>
     <br>

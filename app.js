@@ -1,6 +1,6 @@
 function abrirsalame() {
     // Abrir a página queijo.html em uma nova janela ou guia
-    window.open('salame.html', '_blank');
+    window.open('salame.php', '_blank');
     // Fechar a janela ou guia atual (pode não funcionar em alguns navegadores devido a restrições de segurança)
     window.close();
 }
