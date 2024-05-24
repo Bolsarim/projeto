@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tipos de Salames</title>
+    <title>Tipos de Queijos</title>
     <link rel="stylesheet" href="salame.css">
 </head>
 <body>
@@ -24,7 +24,7 @@
                 </div>
 
                 <ul class="carrinho">
-                     <a href="carrinho.html">🛒</a>
+                     <a href="carrinho.php">🛒</a>
                 </ul>
             </div>
             </ul>
@@ -48,36 +48,36 @@
 ?>
     <ul>
     <li>
-        <img src="img/salame-azeitona.jpg"  width="450" height="450" alt="salame-azeitona" loading="laze">
-        <p>Salame Azeitona</p>
-        <p>Preço: R$ 25,00</p>
-        <button>Adicionar ao Carrinho</button>
+        <img src="img/queijo-furadinho.jpg"  width="450" height="450" alt="queijo-furadinho" loading="laze">
+        <p>Queijo Furadinho</p>
+        <p>Preço: R$ 35,00</p>
+        <button>Adicionar ao carrinho</button>
     </li>
     
     <li>
-        <img src="img/salame-lombo.jpg"  width="450" height="450" alt="salame-lombo" loading="laze">
-        <p>Salame Lombo</p>
-        <p>Preço: R$ 25,00</p>
+        <img src="img/queijo-gorgonzola.png"  width="450" height="450" alt="queijo-gorgonzola" loading="laze">
+        <p>Queijo Gorgonzola</p>
+        <p>Preço: R$ 35,00</p>
         <button>Adicionar ao Carrinho</button>
     </li>
 
     <li>
-        <img src="img/salame-pimenta-biquinho.jpg"  width="450" height="450" alt="salame-pimenta-biquinho" loading="laze">
-        <p>Salame Pimenta Biquinho</p>
-        <p>Preço: R$ 25,00</p>
+        <img src="img/queijo-meia-cura.jpg"  width="450" height="450" alt="queijo-meia-cura" loading="laze">
+        <p>Queijo Meia-Cura</p>
+        <p>Preço: R$ 40,00</p>
         <button>Adicionar ao Carrinho</button>
     </li>
 
     <li>
-        <img src="img/salame-tradicional.jpg"  width="450" height="450" alt="salame-tradicional" loading="laze">
-        <p>Salame Tradicional</p>
+        <img src="img/queijo-provolone-desidratado.jpg"  width="450" height="450" alt="queijo-provolone-desidratado" loading="laze">
+        <p>Queijo Provolone desidratado</p>
         <p>Preço: R$ 25,00</p>
         <button>Adicionar ao Carrinho</button>
     </li>
     <li>
-        <img src="img/salame-tradicional.jpg"  width="450" height="450" alt="salame-tradicional" loading="laze">
-        <p>Salame Tradicional</p>
-        <p>Preço: R$ 25,00</p>
+        <img src="img/queijo-provolone.jpg"  width="450" height="450" alt="queijo-provolone" loading="laze">
+        <p>Queijo Provolone</p>
+        <p>Preço: R$ 35,00</p>
         <button>Adicionar ao Carrinho</button>
     </li>
     </ul>

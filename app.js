@@ -5,7 +5,7 @@ function abrirsalame() {
     window.close();
 }
 function abrirqueijo() {
-    window.open('queijo.html', '_blank');
+    window.open('queijo.php', '_blank');
     window.close();
 }
 function abrirpimenta() {
