@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tipos de Queijos</title>
+    <title>Tipos de Salames</title>
     <link rel="stylesheet" href="salame.css">
 </head>
 <body>
@@ -38,44 +38,44 @@
     while($umaTarefa = mysqli_fetch_assoc($resultado)){
     ?>
 
-   
+
  <?php
     }
 ?>
     <ul>
-    <li>
-        <img src="img/queijo-furadinho.jpg"  width="200" height="150" alt="queijo-furadinho" loading="laze">
-        <p>Queijo Furadinho</p>
-        <p>Preço: R$ 35,00</p>
-        <button>Adicionar ao carrinho</button>
-    </li>
-    
-    <li>
-        <img src="img/queijo-gorgonzola.png"  width="200" height="150" alt="queijo-gorgonzola" loading="laze">
-        <p>Queijo Gorgonzola</p>
-        <p>Preço: R$ 35,00</p>
-        <button>Adicionar ao Carrinho</button>
-    </li>
+        <li>
+            <img src="img/vinhobranco.jpg"   height="150" alt="vinho-branco" loading="laze">
+            <p>Vinho Branco</p>
+            <p>Preço: R$ 25,00</p>
+            <button>Adicionar ao carrinho</button>
+        </li>
+        
+        <li>
+            <img src="img/vinhobrancoseco.jpg"   height="150" alt="vinho-branco-seco" loading="laze">
+            <p>Vinho Branco Seco</p>
+            <p>Preço: R$ 25,00</p>
+            <button>Adicionar ao Carrinho</button>
+        </li>
 
-    <li>
-        <img src="img/queijo-meia-cura.jpg"  width="200" height="150" alt="queijo-meia-cura" loading="laze">
-        <p>Queijo Meia-Cura</p>
-        <p>Preço: R$ 40,00</p>
-        <button>Adicionar ao Carrinho</button>
-    </li>
+        <li>
+            <img src="img/vinhorose.jpg"   height="150" alt="vinho-rose" loading="laze">
+            <p>Vinho Rose</p>
+            <p>Preço: R$ 25,00</p>
+            <button>Adicionar ao Carrinho</button>
+        </li>
 
-    <li>
-        <img src="img/queijo-provolone-desidratado.jpg"  width="200" height="150" alt="queijo-provolone-desidratado" loading="laze">
-        <p>Queijo Provolone desidratado</p>
-        <p>Preço: R$ 25,00</p>
-        <button>Adicionar ao Carrinho</button>
-    </li>
-    <li>
-        <img src="img/queijo-provolone.jpg"  width="200" height="150" alt="queijo-provolone" loading="laze">
-        <p>Queijo Provolone</p>
-        <p>Preço: R$ 35,00</p>
-        <button>Adicionar ao Carrinho</button>
-    </li>
+        <li>
+            <img src="img/vinhoseco.jpg"   height="150" alt="vinho-seco" loading="laze">
+            <p>Vinho Seco</p>
+            <p>Preço: R$ 25,00</p>
+            <button>Adicionar ao Carrinho</button>
+        </li>
+        <li>
+            <img src="img/vinhosuav.jpg"   height="150" alt="vinho-suave" loading="laze">
+            <p>Vinho Suav</p>
+            <p>Preço: R$ 25,00</p>
+            <button>Adicionar ao Carrinho</button>
+        </li>
     </ul>
     <br>
     <br>

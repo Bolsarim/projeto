@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tipos de Queijos</title>
+    <title>Tipos de Pimenta</title>
     <link rel="stylesheet" href="salame.css">
 </head>
 <body>
@@ -38,42 +38,46 @@
     while($umaTarefa = mysqli_fetch_assoc($resultado)){
     ?>
 
-   
+    <td><?= $umaTarefa['tipo'];?></td>
+    <td><?= $umaTarefa['produto'];?></td>
+    <td><?= $umaTarefa['preco'];?></td>
+    <td><?= $umaTarefa['imagem'];?></td>
+
  <?php
     }
 ?>
     <ul>
     <li>
-        <img src="img/queijo-furadinho.jpg"  width="200" height="150" alt="queijo-furadinho" loading="laze">
-        <p>Queijo Furadinho</p>
-        <p>Preço: R$ 35,00</p>
+        <img src="img/pimenta branca.png"  width="200" height="150" alt="pimenta-branca" loading="laze">
+        <p>Pimenta Branca</p>
+        <p>Preço: R$ 18,00</p>
         <button>Adicionar ao carrinho</button>
     </li>
     
     <li>
-        <img src="img/queijo-gorgonzola.png"  width="200" height="150" alt="queijo-gorgonzola" loading="laze">
-        <p>Queijo Gorgonzola</p>
-        <p>Preço: R$ 35,00</p>
+        <img src="img/pimenta laranja.png"  width="200" height="150" alt="pimenta-laranja" loading="laze">
+        <p>Pimenta Laranja</p>
+        <p>Preço: R$ 18,00</p>
         <button>Adicionar ao Carrinho</button>
     </li>
 
     <li>
-        <img src="img/queijo-meia-cura.jpg"  width="200" height="150" alt="queijo-meia-cura" loading="laze">
-        <p>Queijo Meia-Cura</p>
-        <p>Preço: R$ 40,00</p>
+        <img src="img/pimenta marrom.png"  width="200" height="150" alt="pimenta-marrom" loading="laze">
+        <p>Pimenta Marrom</p>
+        <p>Preço: R$ 18,00</p>
         <button>Adicionar ao Carrinho</button>
     </li>
 
     <li>
-        <img src="img/queijo-provolone-desidratado.jpg"  width="200" height="150" alt="queijo-provolone-desidratado" loading="laze">
-        <p>Queijo Provolone desidratado</p>
-        <p>Preço: R$ 25,00</p>
+        <img src="IMG/pimenta verde.png"  width="200" height="150" alt="pimenta-verde" loading="laze">
+        <p>Pimenta Verde</p>
+        <p>Preço: R$ 18,00</p>
         <button>Adicionar ao Carrinho</button>
     </li>
     <li>
-        <img src="img/queijo-provolone.jpg"  width="200" height="150" alt="queijo-provolone" loading="laze">
-        <p>Queijo Provolone</p>
-        <p>Preço: R$ 35,00</p>
+        <img src="img/pimenta vermelha.png"  width="200" height="150" alt="pimenta-vermelha" loading="laze">
+        <p>Pimenta Vermelha</p>
+        <p>Preço: R$ 20,00</p>
         <button>Adicionar ao Carrinho</button>
     </li>
     </ul>

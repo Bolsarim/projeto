@@ -9,7 +9,19 @@ function abrirqueijo() {
     window.close();
 }
 function abrirpimenta() {
-    window.open('pimenta.html', '_blank');
+    window.open('pimenta.php', '_blank');
+}
+
+function abrirdoce() {
+    window.open('doce.php', '_blank');
+}
+
+function abrirdefumado() {
+    window.open('defumado.php', '_blank');
+}
+
+function abrirvinho() {
+    window.open('vinho.php', '_blank');
 }
 
 function search() {

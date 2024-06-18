@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tipos de Queijos</title>
+    <title>Tipos de Doces</title>
     <link rel="stylesheet" href="salame.css">
 </head>
 <body>
@@ -44,36 +44,36 @@
 ?>
     <ul>
     <li>
-        <img src="img/queijo-furadinho.jpg"  width="200" height="150" alt="queijo-furadinho" loading="laze">
-        <p>Queijo Furadinho</p>
-        <p>Preço: R$ 35,00</p>
+        <img src="img/doceleite.jpg"  width="200" height="150" alt="Doce de Leite" loading="laze">
+        <p>Doce de Leite</p>
+        <p>Preço: R$ 40,00</p>
         <button>Adicionar ao carrinho</button>
     </li>
     
     <li>
-        <img src="img/queijo-gorgonzola.png"  width="200" height="150" alt="queijo-gorgonzola" loading="laze">
-        <p>Queijo Gorgonzola</p>
-        <p>Preço: R$ 35,00</p>
-        <button>Adicionar ao Carrinho</button>
-    </li>
-
-    <li>
-        <img src="img/queijo-meia-cura.jpg"  width="200" height="150" alt="queijo-meia-cura" loading="laze">
-        <p>Queijo Meia-Cura</p>
+        <img src="img/docecomportas.jpg"  width="200" height="150" alt="Doce de Comporta" loading="laze">
+        <p>Doce de Comporta</p>
         <p>Preço: R$ 40,00</p>
         <button>Adicionar ao Carrinho</button>
     </li>
 
     <li>
-        <img src="img/queijo-provolone-desidratado.jpg"  width="200" height="150" alt="queijo-provolone-desidratado" loading="laze">
-        <p>Queijo Provolone desidratado</p>
-        <p>Preço: R$ 25,00</p>
+        <img src="img/docebala.jpg"  width="200" height="150" alt="Bala de Doce de leite" loading="laze">
+        <p>Bala de Doce de leite</p>
+        <p>Preço: R$ 20,00</p>
+        <button>Adicionar ao Carrinho</button>
+    </li>
+
+    <li>
+        <img src="img/cremecaramelo.jpg"  width="200" height="150" alt="Doce de Caramelo" loading="laze">
+        <p>Doce de Caramelo</p>
+        <p>Preço: R$ 30,00</p>
         <button>Adicionar ao Carrinho</button>
     </li>
     <li>
-        <img src="img/queijo-provolone.jpg"  width="200" height="150" alt="queijo-provolone" loading="laze">
-        <p>Queijo Provolone</p>
-        <p>Preço: R$ 35,00</p>
+        <img src="img/mel.jpg"  width="200" height="150" alt="mel" loading="laze">
+        <p>Mel</p>
+        <p>Preço: R$ 30,00</p>
         <button>Adicionar ao Carrinho</button>
     </li>
     </ul>
