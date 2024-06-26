@@ -1,5 +1,6 @@
 
 function abririndex() {
-    window.open('index.html', '_blank');
+    window.open('index.php', '_blank');
     window.close();
 }
+

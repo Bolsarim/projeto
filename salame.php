@@ -30,53 +30,28 @@
             </ul>
         </nav>
     </header>
+    <ul>
     <?php
     include "conexao.php";
-    $sql = "select * from produtos order by preco asc, id desc";
+    $sql = "select * from produtos  order by preco asc, id desc";
     $resultado = mysqli_query($conexao, $sql);
    
     while($umaTarefa = mysqli_fetch_assoc($resultado)){
+        
     ?>
-
+        <li>
+            <img src="img/salame-azeitona.jpg"  width="200" height="150" alt="salame-azeitona" loading="laze">
+            <p><?php echo $umaTarefa['produto'];?></p>
+            <p>Preço: R$ 25,00</p>
+            <button>Adicionar ao carrinho</button>
+        </li>
     
 
  <?php
     }
 ?>
-    <ul>
-    <li>
-        <img src="img/salame-azeitona.jpg"  width="200" height="150" alt="salame-azeitona" loading="laze">
-        <p>Salame Azeitona</p>
-        <p>Preço: R$ 25,00</p>
-        <button>Adicionar ao carrinho</button>
-    </li>
     
-    <li>
-        <img src="img/salame-lombo.jpg"  width="200" height="150" alt="salame-lombo" loading="laze">
-        <p>Salame Lombo</p>
-        <p>Preço: R$ 25,00</p>
-        <button>Adicionar ao Carrinho</button>
-    </li>
-
-    <li>
-        <img src="img/salame-pimenta-biquinho.jpg"  width="200" height="150" alt="salame-pimenta-biquinho" loading="laze">
-        <p>Salame Pimenta Biquinho</p>
-        <p>Preço: R$ 25,00</p>
-        <button>Adicionar ao Carrinho</button>
-    </li>
-
-    <li>
-        <img src="img/salame-tradicional.jpg"  width="200" height="150" alt="salame-tradicional" loading="laze">
-        <p>Salame Tradicional</p>
-        <p>Preço: R$ 25,00</p>
-        <button>Adicionar ao Carrinho</button>
-    </li>
-    <li>
-        <img src="img/salame-tradicional.jpg"  width="200" height="150" alt="salame-tradicional" loading="laze">
-        <p>Salame Tradicional</p>
-        <p>Preço: R$ 25,00</p>
-        <button>Adicionar ao Carrinho</button>
-    </li>
+    
     </ul>
     <br>
     <br>

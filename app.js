@@ -32,3 +32,25 @@ function search() {
     var searchResultsDiv = document.getElementById('searchResults');
     searchResultsDiv.innerHTML = '<p>Search results for: ' + searchTerm + '</p>';
 }
+
+
+function abrirsobre() {
+    window.open('sobre.php', '_blank');
+    window.close();
+}
+
+function abrirquemsomos() {
+    window.open('quemsomos.php', '_blank');
+    window.close();
+}
+
+function abririnformacoes() {
+    window.open('informacoes.php', '_blank');
+    window.close();
+}
+
+
+function abririndex() {
+    window.open('index.html', '_blank');
+    window.close();
+}

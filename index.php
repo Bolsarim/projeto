@@ -59,6 +59,16 @@
     
     <h1>NOSSOS PRODUTOS</h1>
     <section class="flex">
+
+    <div class="link">
+        <a href="salame.php" id="salameBotao">
+            <img src="img/salames.png" width="400" height="250">
+            <p>Salames</p>
+        </a>
+    </div>
+        
+
+
         <div>
             
             <button onclick="abrirsalame()" id="salameBotao">
@@ -118,9 +128,25 @@
         <a href="#"></a>
         <nav>
             <ul class="menu">
-                <li> <a href="/">Sobre</a></li>
-                <li> <a href="/">Quem Somos</a></li>
-                <li> <a href="/">Informações</a></li>
+
+
+                <ul class="footer2" >
+                    <div class="botao" onclick="abrirsobre()" id="sobre">
+                        <a href="">Sobre</a>
+                    </div>
+                </ul>
+                
+                    <ul class="footer2" >
+                        <div class="botao" id="quemSomos">
+                            <a href="quemsomos.php">Quem Somos</a>
+                        </div>
+                    </ul>
+                        
+                        <ul class="footer2" >
+                            <div class="botao" onclick="abririnformacoes()" id="informacoes">
+                                <a href="">Informações</a>
+                       </div>
+               
             </ul>
         </nav>
     </footer>
