@@ -58,7 +58,6 @@
 
     
     <h1>NOSSOS PRODUTOS</h1>
-  
     <section class="flex">
 
     <div class="link">
@@ -70,23 +69,25 @@
         
 
 
-    <div class="link">
-            <a href="queijo.php" id="queijoBotao">
-                <img src="img/queijo.jpg" width="400" height="250">
-                <p>Queijo</p>
-            </a>
+        <div>
+            
+            <button onclick="abrirsalame()" id="salameBotao">
+                <img src="img/salames.png" width="400" height="250">
+                <p>Salames</p>
+            </button>
+            <h3 id="frase"></h3>
         </div>
- 
+        
+
 
         <div class="link">
-        <a href="pimenta.php" id="pimentaBotao">
-            <img src="img/pimenta.jpg" width="400" height="250">
-            <p>Pimenta</p>
+        <a href="queijo.php" id="queijoBotao">
+            <img src="img/queijo.jpg" width="400" height="250">
+            <p>Queijo</p>
         </a>
     </div>
 
-
-    
+        
     <div class="link">
         <a href="doce.php" id="doceBotao">
             <img src="img/doce.jpg" width="400" height="250">
@@ -94,6 +95,22 @@
         </a>
     </div>
 
+    
+
+
+    
+      
+
+        <div>
+            <button onclick="abrirdoce()" id="doceBotao">
+                <img src="img/doce.jpg" width="400" height="250">
+                <p>Doces</p>
+            </button>
+            <h3 id="frase"></h3>
+        </div>
+
+
+            
     <div class="link">
         <a href="defumado.php" id="defumadoBotao">
             <img src="img/defumados.jpg" width="400" height="250">
@@ -101,32 +118,32 @@
         </a>
     </div>
 
+        <div>
+            <button onclick="abrirpimenta()" id="pimentaBotao">
+                <img src="img/defumados.jpg" width="400" height="250">
+                <p>Defumados</p>
+            </button>
+            <h3 id="frase"></h3>
+        </div>
 
-    <div class="link">
+
+        <div class="link">
         <a href="vinho.php" id="vinhoBotao">
             <img src="img/vinnn.jpg" width="400" height="250">
             <p>Vinho</p>
         </a>
     </div>
 
-</section>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+        <div>
+            <button onclick="abrirvinho()" id="pimentaBotao">
+                <img src="img/vinnn.jpg" width="350" height="250">
+                <p>Vinho</p>
+            </button>
+            <h3 id="frase"></h3>
+        </div>
+     
+    </section>
     <br>
     <br>
     <br>

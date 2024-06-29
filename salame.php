@@ -33,16 +33,20 @@
     <ul>
     <?php
     include "conexao.php";
-    $sql = "select * from produtos  order by preco asc, id desc";
+    $sql = "select * from produtos where tipo = 'salame' order by preco asc, tipo desc";
     $resultado = mysqli_query($conexao, $sql);
    
     while($umaTarefa = mysqli_fetch_assoc($resultado)){
         
     ?>
         <li>
+
+          
             <img src="img/salame-azeitona.jpg"  width="200" height="150" alt="salame-azeitona" loading="laze">
             <p><?php echo $umaTarefa['produto'];?></p>
-            <p>Preço: R$ 25,00</p>
+            <p><?php echo $umaTarefa['preco'];?></p>
+
+            
             <button>Adicionar ao carrinho</button>
         </li>
     
