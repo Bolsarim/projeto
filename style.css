@@ -240,3 +240,16 @@ img {
     column-count: 1;
     column-gap: 0;
   }
+
+
+  img{
+    width: 300px;
+     display: block;
+     border-radius: 50px;
+ 
+ }
+
+ .conteudo-coluna-2 p{
+    margin-right: 5px;
+  }
+
