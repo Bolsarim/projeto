@@ -21,8 +21,12 @@
             <ul class="menu" >
                 <div class="botao" onclick="abririndex()" id="inicioBotão">
                     <a href="">INICIO</a>
+                
                 </div>
 
+               
+
+                
                 <ul class="carrinho">
                      <a href="carrinho.php">🛒</a>
                 </ul>

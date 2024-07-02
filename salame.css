@@ -14,17 +14,22 @@ header {
     justify-content: space-between;
 }
 .botao a {
+    font-size: 20px;
     font-family: cursive;
     text-decoration: none;
     color: #000000;
     border-radius: 8px;
     margin: 10px;
     padding: 20px;
-    width: 100px;
+    width: 200px;
     text-align: center;
 
 }
+
+
+
 .carrinho {
+    font-size: 20px;
     text-align: end;
 
 }
@@ -33,6 +38,8 @@ header {
     display: block;
     margin-left: 10px;
 }
+
+
 
 footer {
     position: relative;
