@@ -34,11 +34,6 @@ function search() {
 }
 
 
-function abrirsobre() {
-    window.open('sobre.php', '_blank');
-    window.close();
-}
-
 function abrirquemsomos() {
     window.open('quemsomos.php', '_blank');
     window.close();
@@ -51,6 +46,6 @@ function abririnformacoes() {
 
 
 function abririndex() {
-    window.open('index.html', '_blank');
+    window.open('index.php', '_blank');
     window.close();
 }

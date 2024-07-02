@@ -209,8 +209,16 @@ img {
 
 
 .link{
+    border-radius: 8px;
     border: 1px solid;
     background-color: #ccc;
+    text-align: center;
+}
+
+.link p{
+    
+   
+   
     text-align: center;
 }
 

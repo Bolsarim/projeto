@@ -71,7 +71,7 @@
             <button>Adicionar ao Carrinho</button>
         </li>
         <li>
-            <img src="img/vinhosuav.jpg"   height="150" alt="vinho-suave" loading="laze">
+            <img src="img/vinhosuav.jpg"   height="100" alt="vinho-suave" loading="laze">
             <p>Vinho Suav</p>
             <p>Preço: R$ 25,00</p>
             <button>Adicionar ao Carrinho</button>

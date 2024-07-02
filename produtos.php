@@ -33,7 +33,8 @@
     <ul>
     <?php
     include "conexao.php";
-    $sql = "select * from produtos where tipo = 'salame' order by preco asc, tipo desc";
+    $tipo = $_GET["tipo"];
+    $sql = "select * from produtos where tipo = '$tipo' order by preco asc, tipo desc";
     $resultado = mysqli_query($conexao, $sql);
    
     while($umaTarefa = mysqli_fetch_assoc($resultado)){
@@ -42,7 +43,7 @@
         <li>
 
           
-            <img src="img/salame-azeitona.jpg"  width="200" height="150" alt="salame-azeitona" loading="laze">
+            <img src="<?php echo $umaTarefa['imagem'];?>"  width="" height="150" alt="salame-azeitona" loading="laze">
             <p><?php echo $umaTarefa['produto'];?></p>
             <p><?php echo "R$ " , $umaTarefa['preco'];?></p>
 

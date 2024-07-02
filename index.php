@@ -62,7 +62,7 @@
     <section class="flex">
 
     <div class="link">
-        <a href="salame.php" id="salameBotao">
+        <a href="produtos.php?tipo=salame" id="salameBotao">
             <img src="img/salames.png" width="400" height="250">
             <p>Salames</p>
         </a>
@@ -71,7 +71,7 @@
 
 
     <div class="link">
-            <a href="queijo.php" id="queijoBotao">
+            <a href="produtos.php?tipo=queijo" id="queijoBotao">
                 <img src="img/queijo.jpg" width="400" height="250">
                 <p>Queijo</p>
             </a>
@@ -79,7 +79,7 @@
  
 
         <div class="link">
-        <a href="pimenta.php" id="pimentaBotao">
+        <a href="produtos.php?tipo=pimenta" id="pimentaBotao">
             <img src="img/pimenta.jpg" width="400" height="250">
             <p>Pimenta</p>
         </a>
@@ -88,14 +88,14 @@
 
     
     <div class="link">
-        <a href="doce.php" id="doceBotao">
+        <a href="produtos.php?tipo=doce" id="doceBotao">
             <img src="img/doce.jpg" width="400" height="250">
             <p>Doce</p>
         </a>
     </div>
 
     <div class="link">
-        <a href="defumado.php" id="defumadoBotao">
+        <a href="produtos.php?tipo=defumado" id="defumadoBotao">
             <img src="img/defumados.jpg" width="400" height="250">
             <p>Defumados</p>
         </a>
@@ -103,7 +103,7 @@
 
 
     <div class="link">
-        <a href="vinho.php" id="vinhoBotao">
+        <a href="produtos.php?tipo=vinho" id="vinhoBotao">
             <img src="img/vinnn.jpg" width="400" height="250">
             <p>Vinho</p>
         </a>
@@ -137,11 +137,6 @@
             <ul class="menu">
 
 
-                <ul class="footer2" >
-                    <div class="botao" onclick="abrirsobre()" id="sobre">
-                        <a href="">Sobre</a>
-                    </div>
-                </ul>
                 
                     <ul class="footer2" >
                         <div class="botao" id="quemSomos">

@@ -55,13 +55,6 @@
         <a href="#"></a>
         <nav>
             <ul class="menu">
-
-
-                <ul class="footer2" >
-                    <div class="botao" onclick="abrirsobre()" id="sobre">
-                        <a href="">Sobre</a>
-                    </div>
-                </ul>
                 
                     <ul class="footer2" >
                         <div class="botao" onclick="abrirquemsomos()" id="quemSomos">
