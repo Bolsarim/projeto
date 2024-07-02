@@ -33,38 +33,52 @@
         
     </header>
 
-    <h1> Quem Somos</h1>
 
-   
-<br>
-    <div class="quemsomos">
 
+    <div class="coluna2">
+    <h1 class="titulo-2">Uma casa com história</h1>
+
+    <div class="conteudo-coluna-2">
+        <img class="img" src="img/emporio-bar.jpg.webp" alt="imagem forno">
         <p>O Empório Marangoni é um verdadeiro pedacinho do paraíso para os amantes de queijos, salames, pimentas e doces artesanais.
         Fundado por uma família apaixonada pela gastronomia e pela tradição culinária, o empório se destaca por oferecer produtos de alta qualidade.
+            <br>
+            <br>
+            <a class="conheca">Conheça</a>
         </p>
+        
+</div>
+</div>
 
 
-        <p>Especializado em atender uma clientela específica, o Empório Marangoni realiza vendas domiciliares, levando os seus deliciosos produtos diretamente para a casa dos clientes. Com um atendimento personalizado e um cuidado especial com cada detalhe, a família proprietária do negócio se dedica a garantir a satisfação de cada pessoa que entra em contato com eles.
-        </p>
 
-        <p>
-        Seja para um jantar romântico, um almoço de família ou um evento especial, o Empório Marangoni é o lugar perfeito para encontrar os melhores queijos, salames, pimentas e doces da região. 
-        </p>
 
-        <p>
-        Com uma variedade de opções e um sabor incomparável, cada produto oferecido pelo empório é uma verdadeira experiência gastronômica.
-        </p>
-      
-        <p>
-        Venha descobrir o verdadeiro significado de sabores autênticos e de uma experiência de compra única e personalizada. 
-        O Empório Marangoni espera por você para encantar o seu paladar e conquistar o seu coração com os seus produtos deliciosos e o seu atendimento caloroso e acolhedor.
-       </p>
 
-        </div>
-                
-    
-   <br>
-    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
    
                
     <footer class="footer">
