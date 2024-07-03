@@ -43,8 +43,7 @@
     E-mail: emporio@gmail.com 
     <br>
     </p>
-    
-    <div id="linha-horizontal"></div>
+   
     
 
     <h2>Redes Sociais 📱 </h2>
@@ -57,7 +56,7 @@
        Linkedin: marangoni_09
        <br>
     </p>   
-    <div id="linha-horizontal"></div> 
+    
     </div>
 
    

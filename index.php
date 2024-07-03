@@ -113,75 +113,7 @@
 
 
 
-<header2>
-
-    <div id="container">	
-	
-    <!-- Start	Product details -->
-        <div class="product-details">
-            
-            <!-- 	Product Name -->
-        <h1>Promoção</h1>
-    <!-- 		<span class="hint new">New</span> -->
-    <!-- 		<span class="hint free-shipping">Free Shipping</span> -->
-    <!-- 		the Product rating -->
-        <span class="hint-star star">
-            <i class="fa fa-star" aria-hidden="true"></i>
-            <i class="fa fa-star" aria-hidden="true"></i>
-            <i class="fa fa-star" aria-hidden="true"></i>
-            <i class="fa fa-star-half-o" aria-hidden="true"></i>
-            <i class="fa fa-star-o" aria-hidden="true"></i>
-        </span>
-            
-        
-    <!-- The most important information about the product -->
-            <p class="information">" Aproveite esta oferta exclusiva e leve para casa nosso Balde de Vinho Premium com desconto imperdível! Ideal para suas celebrações e momentos especiais, este balde é perfeito para manter seu vinho gelado enquanto você desfruta da companhia de amigos e familiares.  "</p>
-    
-            
-            
-    <!-- 		Control -->
-    <div class="control">
-  
-       
-        
-    </div>
-                
-    </div>
-        
-    <!-- 	End	Product details   -->
-        
-        
-        
-    <!-- 	Start product image & Information -->
-        
-    <div class="product-image">
-        
-        <img src="img/baldevinho.jpg" alt="Omar Dsoky">
-        
-    <!-- 	product Information-->
-    <div class="info">
-        <h2>The Description</h2>
-        <ul>
-            <li><strong>Produto: </strong>Balde de Vinho Premium</li>
-            <li><strong>Material: </strong>Aço inoxidável de alta qualidade</li>
-            <li><strong>Capacidade: </strong>Para até duas garrafas de vinho</li>
-            <li><strong>Válido até: </strong>22/07</li>
-            
-        </ul>
-    </div>
-    </div>
-    <!--  End product image  -->
-    
-    
-    </div>
-    
-    </header2>
-    
-
-
-
-
-
+   
 
 
 
