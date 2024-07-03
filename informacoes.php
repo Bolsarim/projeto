@@ -25,6 +25,7 @@
                 </div>
     </header>
 <br>
+<<<<<<< HEAD
     <div class="quemsomos">
     <br> 
         <br>
@@ -39,6 +40,41 @@
         <br> 
         <br>    
    <br>        
+=======
+    <div class="info">
+    <h2> Fale Conosco ✉ </h2>
+
+    <p>Número contato: (19) 1234-5678 
+        <br>
+    E-mail: emporio@gmail.com 
+    <br>
+    </p>
+   
+    
+
+    <h2>Redes Sociais 📱 </h2>
+    <p>Instagram:
+         @marangoni_emporio
+        <br>
+        
+       Facebook: emporioMarangoni
+       <br>
+       Linkedin: marangoni_09
+       <br>
+    </p>   
+    
+    </div>
+
+   
+   
+    
+
+
+
+
+   
+               
+>>>>>>> 996615b44ff4ae2fdae38788214ba306031dd147
     <footer class="footer">
         <a href="#"></a>
         <nav>
