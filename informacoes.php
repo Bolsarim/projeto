@@ -35,12 +35,12 @@
     </header>
    
 <br>
-    <div class="informacoes">
-    <h1>
-       Fale Conosco
-        </div>
+    <div class="info">
+    <h2> Fale Conosco </h2>
+    </div>
 
-    </h1>
+    
+   
     
    <br>
     
