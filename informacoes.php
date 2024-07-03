@@ -38,26 +38,33 @@
     <div class="info">
     <h2> Fale Conosco ✉ </h2>
 
-    <p>Número contato: (19) 1234-5678
+    <p>Número contato: (19) 1234-5678 
         <br>
-    E-mail: emporio@gmail.com
+    E-mail: emporio@gmail.com 
     <br>
     </p>
+    <div id="linha-horizontal"></div>
 
     <h2>Redes Sociais 📱 </h2>
-    <p>Instagram: @marangoni_emporio
+    <p>Instagram:
+         @marangoni_emporio
         <br>
+        
        Facebook: emporioMarangoni
        <br>
        Linkedin: marangoni_09
        <br>
-    </p>
+    </p>   
+    <div id="linha-horizontal"></div> 
     </div>
 
-
+   
    
     
-    
+
+
+
+
    
                
     <footer class="footer">

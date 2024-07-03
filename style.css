@@ -280,6 +280,17 @@ img {
     column-gap: 0;
   }
   
+.info{
+  padding: 20px;
+}
 
 
+.atend{
+  padding: 100px;
+}
+
+#linha-horizontal {
+  width: 300px;
+  border: 1px solid #000;
+}
 
