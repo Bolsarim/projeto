@@ -35,8 +35,6 @@
     <br>
     </p>
    
-    
-
     <h2>Redes Sociais 📱 </h2>
     <p>Instagram:
          @marangoni_emporio

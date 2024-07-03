@@ -279,14 +279,12 @@ img {
     column-count: 1;
     column-gap: 0;
   }
-<<<<<<< HEAD
 
-=======
   
 .info{
-  padding: 20px;
+  text-align: center;
+  margin: 100px;
 }
->>>>>>> 996615b44ff4ae2fdae38788214ba306031dd147
 
 
 .atend{
