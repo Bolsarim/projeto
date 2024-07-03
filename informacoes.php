@@ -43,7 +43,9 @@
     E-mail: emporio@gmail.com 
     <br>
     </p>
+    
     <div id="linha-horizontal"></div>
+    
 
     <h2>Redes Sociais 📱 </h2>
     <p>Instagram:
