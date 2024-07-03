@@ -44,10 +44,13 @@
     <br>
     </p>
 
-    <h2>Redes Sociais </h2>
+    <h2>Redes Sociais 📱 </h2>
     <p>Instagram: @marangoni_emporio
+        <br>
        Facebook: emporioMarangoni
+       <br>
        Linkedin: marangoni_09
+       <br>
     </p>
     </div>
 
