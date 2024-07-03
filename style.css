@@ -298,16 +298,28 @@ img {
   .header{
     display: block;
     background-image: none;
-    width: 80vw;
     margin: 0em 0em;
     align-items: center;
   }
+
+
+  .header img{
+
+    margin-left: 70px;
+    margin-right: 50px; 
+  }
+
   .search-container input{
     display: block;
     width: 80px;
     align-items: center;
   }
 
+  .banner{
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+  }
   
 
 }
