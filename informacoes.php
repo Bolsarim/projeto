@@ -25,22 +25,7 @@
                 </div>
     </header>
 <br>
-<<<<<<< HEAD
-    <div class="quemsomos">
-    <br> 
-        <br>
-        <br> 
-        <br> 
-        <br> 
-        <p>Rua da Felicidades 55 Cidade das Flores</p>
-        <P>Telefone: (19)994455555</P>
-        <p>E-mail: maranfoni@marangoni.com.br</p>
-        <br> 
-        <br> 
-        <br> 
-        <br>    
    <br>        
-=======
     <div class="info">
     <h2> Fale Conosco ✉ </h2>
 
@@ -74,7 +59,6 @@
 
    
                
->>>>>>> 996615b44ff4ae2fdae38788214ba306031dd147
     <footer class="footer">
         <a href="#"></a>
         <nav>
